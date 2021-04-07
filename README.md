@@ -1,5 +1,3 @@
-/*
-<br>
 FonixWeb & RAGIP MULLAMUSA  
 <br>
 My Notes - Notepad is an easy-to-use, intuitive, fast, elegant and secure notebook with cloud sync. 
@@ -20,7 +18,4 @@ Instagram : instagram.com/fonixweb    <br>
 Youtube : youtube.com/fonixweb    <br>
 Linkedin : linkedin.com/in/fonixweb     <br>
 Twitter : twitter.com/fonix_web     <br>
-
-Google : fonixweb.com  <br>
- 
-*/
+Google : fonixweb.com/  <br>
