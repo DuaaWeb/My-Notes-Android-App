@@ -20,9 +20,7 @@ Instagram : instagram.com/fonixweb    <br>
 Youtube : youtube.com/fonixweb    <br>
 Linkedin : linkedin.com/in/fonixweb     <br>
 Twitter : twitter.com/fonix_web     <br>
+
+Google : fonixweb.com  <br>
  
-    <br>
-Google : fonixweb.com
- 
-    <br>
 */
