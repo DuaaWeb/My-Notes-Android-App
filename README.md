@@ -10,9 +10,7 @@ Add a link    <br>
 Note modification     <br>
 Delete note     <br>
 Search    <br>
-Link : https://play.google.com/store/apps/details?id=notes.fonixweb.com 
- 
-    <br>
+Link : https://play.google.com/store/apps/details?id=notes.fonixweb.com  <br>
 facebook : facebook.com/ragip.mullamusa     <br>
 Instagram : instagram.com/fonixweb    <br>
 Youtube : youtube.com/fonixweb    <br>
